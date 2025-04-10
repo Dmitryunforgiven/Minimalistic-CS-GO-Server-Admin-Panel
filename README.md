@@ -30,3 +30,6 @@ It uses the `paramiko` library for SSH communication and supports sudo commands 
    - Ensure the `screen` package is installed on your Linux machine. You can install it with:
      ```bash
      sudo apt update && sudo apt install screen  # For Debian/Ubuntu
+
+**NOTE**
+    - As pre-requisites you need to set up a Firewall, SSH server and Port Forwarding for your linux machine
