@@ -1,0 +1,1 @@
+./srcds_run srcds -game csgo -console -tickrate 128 -usercon +game_type 0 +game_mode 0 +mapgroup mg_active -ip 0.0.0.0  -port 27015 +tv_port 26900  +map de_dust2 +sv_setsteamaccount insert_your_steam_acc_here
